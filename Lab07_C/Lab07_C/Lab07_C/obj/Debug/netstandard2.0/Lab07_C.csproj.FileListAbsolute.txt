@@ -1,0 +1,16 @@
+D:\Visual Studio\Proyectos\Lab07_C\Lab07_C\Lab07_C\bin\Debug\netstandard2.0\Lab07_C.deps.json
+D:\Visual Studio\Proyectos\Lab07_C\Lab07_C\Lab07_C\bin\Debug\netstandard2.0\Lab07_C.dll
+D:\Visual Studio\Proyectos\Lab07_C\Lab07_C\Lab07_C\bin\Debug\netstandard2.0\Lab07_C.pdb
+D:\Visual Studio\Proyectos\Lab07_C\Lab07_C\Lab07_C\obj\Debug\netstandard2.0\Lab07_C.csproj.AssemblyReference.cache
+D:\Visual Studio\Proyectos\Lab07_C\Lab07_C\Lab07_C\obj\Debug\netstandard2.0\Lab07_C.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Proyectos\Lab07_C\Lab07_C\Lab07_C\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Visual Studio\Proyectos\Lab07_C\Lab07_C\Lab07_C\obj\Debug\netstandard2.0\BatteryDemo.xaml.g.cs
+D:\Visual Studio\Proyectos\Lab07_C\Lab07_C\Lab07_C\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Visual Studio\Proyectos\Lab07_C\Lab07_C\Lab07_C\obj\Debug\netstandard2.0\Lab07_C.AssemblyInfoInputs.cache
+D:\Visual Studio\Proyectos\Lab07_C\Lab07_C\Lab07_C\obj\Debug\netstandard2.0\Lab07_C.AssemblyInfo.cs
+D:\Visual Studio\Proyectos\Lab07_C\Lab07_C\Lab07_C\obj\Debug\netstandard2.0\Lab07_C.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Proyectos\Lab07_C\Lab07_C\Lab07_C\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Visual Studio\Proyectos\Lab07_C\Lab07_C\Lab07_C\obj\Debug\netstandard2.0\Lab07_C.dll
+D:\Visual Studio\Proyectos\Lab07_C\Lab07_C\Lab07_C\obj\Debug\netstandard2.0\refint\Lab07_C.dll
+D:\Visual Studio\Proyectos\Lab07_C\Lab07_C\Lab07_C\obj\Debug\netstandard2.0\Lab07_C.pdb
+D:\Visual Studio\Proyectos\Lab07_C\Lab07_C\Lab07_C\obj\Debug\netstandard2.0\ref\Lab07_C.dll

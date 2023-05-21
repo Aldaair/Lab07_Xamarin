@@ -1,0 +1,15 @@
+D:\Visual Studio\Proyectos\Lab07\Lab07\Lab07\bin\Debug\netstandard2.0\Lab07.deps.json
+D:\Visual Studio\Proyectos\Lab07\Lab07\Lab07\bin\Debug\netstandard2.0\Lab07.dll
+D:\Visual Studio\Proyectos\Lab07\Lab07\Lab07\bin\Debug\netstandard2.0\Lab07.pdb
+D:\Visual Studio\Proyectos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.csproj.AssemblyReference.cache
+D:\Visual Studio\Proyectos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Proyectos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Visual Studio\Proyectos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Visual Studio\Proyectos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.AssemblyInfoInputs.cache
+D:\Visual Studio\Proyectos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.AssemblyInfo.cs
+D:\Visual Studio\Proyectos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Proyectos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Visual Studio\Proyectos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.dll
+D:\Visual Studio\Proyectos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\refint\Lab07.dll
+D:\Visual Studio\Proyectos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.pdb
+D:\Visual Studio\Proyectos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\ref\Lab07.dll
